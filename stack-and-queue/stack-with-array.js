@@ -1,4 +1,4 @@
-import { Node } from "../LinkedList/linkedList.js";
+import { Node } from "../linked-list/linked-list.js";
 // can be simplified with just array, but worth to try things out
 class Stack {
   #currentStack;

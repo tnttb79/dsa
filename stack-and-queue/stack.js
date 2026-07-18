@@ -1,4 +1,4 @@
-import { LinkedList, Node } from "../LinkedList/linkedList.js";
+import { LinkedList, Node } from "../linked-list/linked-list.js";
 
 // Naive approach for stack, not efficient
 // - pop current uses LinkedList.remove(index) -> require full traversal O(n)
